@@ -1,4 +1,3 @@
-# ProShop eCommerce Platform
 
 > E-Commerce platform built with the MERN(Mongodb, Express.js, React.js, Node js)stack & Redux.
 
